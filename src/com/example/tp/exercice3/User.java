@@ -1,28 +1,15 @@
 package com.example.tp.exercice3;
 
-/**
- * Représente un utilisateur avec nom et âge, et se valide.
- */
+
 public class User {
 	private String nom;
 	private int age;
 
-	/**
-	 * Constructeur principal.
-	 * 
-	 * @param nom nom de l'utilisateur
-	 * @param age âge en années
-	 */
 	public User(String nom, int age) {
 		this.nom = nom;
 		this.age = age;
 	}
 
-	/**
-	 * Valide les attributs de l'utilisateur.
-	 * 
-	 * @throws InvalidUserException si le nom est vide ou l'âge < 18
-	 */
 	public void validate() throws InvalidUserException {
 		// Vérifier que le nom n'est pas null ou vide
 		if (nom == null || nom.trim().isEmpty()) {
