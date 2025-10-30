@@ -56,6 +56,11 @@ Créer un programme qui effectue une division tout en gérant la division par z�
 Erreur de calcul : Division par zéro impossible
 Fin du calcul.
 ```
+
+## Exemple d’exécution (image)
+
+Voici un exemple de l'exécution du programme (screenshot) :
+
 <img width="645" height="191" alt="image" src="https://github.com/user-attachments/assets/154a0e82-7783-4f89-83be-4f45fa0104ec" />
 
 
@@ -81,6 +86,10 @@ Gérer le cas où le fichier est introuvable à l’aide d’exceptions.
 ```
 Nombres lus : [42, 17, 99]
 ```
+## Exemple d’exécution (image)
+
+Voici un exemple de l'exécution du programme (screenshot) :
+
 <img width="497" height="109" alt="image" src="https://github.com/user-attachments/assets/fc59f2b5-effa-4177-b3cf-ab3d1e31131a" />
 
 ---
@@ -118,6 +127,10 @@ Validation échouée : Nom d'utilisateur invalide
 Validation échouée : Utilisateur mineur (âge=16)
 
 ```
+## Exemple d’exécution (image)
+
+Voici un exemple de l'exécution du programme (screenshot) :
+
 <img width="636" height="133" alt="image" src="https://github.com/user-attachments/assets/7994b53f-8034-449e-acd8-819671267ed3" />
 
 
@@ -157,6 +170,10 @@ com.example.tp.exercice3.InvalidUserException: Utilisateur mineur (âge=16)
 	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
 
 ```
+## Exemple d’exécution (image)
+
+Voici un exemple de l'exécution du programme (screenshot) :
+
 <img width="1044" height="309" alt="image" src="https://github.com/user-attachments/assets/5cd266e1-99d0-4dd9-9afc-6944d998f74b" />
 
 
