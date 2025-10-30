@@ -2,9 +2,7 @@ package com.example.tp.exercice3;
 
 import com.example.tp.exercice4.LoggerUtil;
 
-/**
- * Programme de test : crée plusieurs User et tente leur validation.
- */
+
 public class MainUser {
 	public static void main(String[] args) {
 		// Tableau de test avec différents cas
