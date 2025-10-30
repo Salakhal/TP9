@@ -1,0 +1,84 @@
+=== ERREUR ===
+Message : Nom d'utilisateur invalide
+com.example.tp.exercice3.InvalidUserException: Nom d'utilisateur invalide
+	at com.example.tp.exercice3.User.validate(User.java:29)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Utilisateur mineur (âge=16)
+com.example.tp.exercice3.InvalidUserException: Utilisateur mineur (âge=16)
+	at com.example.tp.exercice3.User.validate(User.java:33)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Nom d'utilisateur invalide
+com.example.tp.exercice3.InvalidUserException: Nom d'utilisateur invalide
+	at com.example.tp.exercice3.User.validate(User.java:29)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Utilisateur mineur (âge=16)
+com.example.tp.exercice3.InvalidUserException: Utilisateur mineur (âge=16)
+	at com.example.tp.exercice3.User.validate(User.java:33)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Nom d'utilisateur invalide
+com.example.tp.exercice3.InvalidUserException: Nom d'utilisateur invalide
+	at com.example.tp.exercice3.User.validate(User.java:29)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Utilisateur mineur (âge=16)
+com.example.tp.exercice3.InvalidUserException: Utilisateur mineur (âge=16)
+	at com.example.tp.exercice3.User.validate(User.java:33)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Nom d'utilisateur invalide
+com.example.tp.exercice3.InvalidUserException: Nom d'utilisateur invalide
+	at com.example.tp.exercice3.User.validate(User.java:29)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Utilisateur mineur (âge=16)
+com.example.tp.exercice3.InvalidUserException: Utilisateur mineur (âge=16)
+	at com.example.tp.exercice3.User.validate(User.java:33)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Nom d'utilisateur invalide
+com.example.tp.exercice3.InvalidUserException: Nom d'utilisateur invalide
+	at com.example.tp.exercice3.User.validate(User.java:29)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Utilisateur mineur (âge=16)
+com.example.tp.exercice3.InvalidUserException: Utilisateur mineur (âge=16)
+	at com.example.tp.exercice3.User.validate(User.java:33)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Nom d'utilisateur invalide
+com.example.tp.exercice3.InvalidUserException: Nom d'utilisateur invalide
+	at com.example.tp.exercice3.User.validate(User.java:29)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Utilisateur mineur (âge=16)
+com.example.tp.exercice3.InvalidUserException: Utilisateur mineur (âge=16)
+	at com.example.tp.exercice3.User.validate(User.java:33)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Nom d'utilisateur invalide
+com.example.tp.exercice3.InvalidUserException: Nom d'utilisateur invalide
+	at com.example.tp.exercice3.User.validate(User.java:29)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
+=== ERREUR ===
+Message : Utilisateur mineur (âge=16)
+com.example.tp.exercice3.InvalidUserException: Utilisateur mineur (âge=16)
+	at com.example.tp.exercice3.User.validate(User.java:33)
+	at com.example.tp.exercice3.MainUser.main(MainUser.java:19)
+
