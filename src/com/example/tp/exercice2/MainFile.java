@@ -2,9 +2,8 @@ package com.example.tp.exercice2;
 
 import java.util.*;
 
-/**
- * Programme de test pour FileUtil.readNumbers.
- */
+
+
 public class MainFile {
 	public static void main(String[] args) {
 		// Appel de la méthode de lecture sur "numbers.txt"
